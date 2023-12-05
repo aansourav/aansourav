@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah An-Noor</h1>
 <h3 align="center">A passionate React Frontend Developer, MERN Stack Developer & NextJS Enthusiast who is focused on writing clean, elegant and efficient code</h3>
+<br><br>
 
 <img src="https://pouch.jumpshare.com/preview/YVLfs0Ldera2NGRNi3vJAtFEZ5AiNCpPp7zutbNVuMaimSuc3UIoFGDw5yM6hmTYHb8ZSR6Ac-zFtp8uAyaZzl88wM1KRdvh8CrGswrffXo" align="center"  width="1000" height="300" />
 <br>
