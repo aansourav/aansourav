@@ -3,7 +3,7 @@
 
 <img src="https://pouch.jumpshare.com/preview/YVLfs0Ldera2NGRNi3vJAtFEZ5AiNCpPp7zutbNVuMaimSuc3UIoFGDw5yM6hmTYHb8ZSR6Ac-zFtp8uAyaZzl88wM1KRdvh8CrGswrffXo" align="center"  width="1000" height="300" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aansourav" alt="aansourav" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aansourav" alt="aansourav" /></a> </p>
 
 - 🌱 I am currently learning & working with **Advanced NextJS with Prisma**
 - 🔭 I’m currently working on [OutCourse](https://github.com/aansourav/OutCourse)
