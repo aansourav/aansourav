@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah An-Noor</h1>
-<h3 align="center">A passionate React Frontend Developer, MERN Stack Developer & NextJS Enthusiast</h3>
+<h3 align="center">A passionate React Frontend Developer, MERN Stack Developer & NextJS Enthusiast who is focused on writing clean, elegant and efficient code</h3>
 
 <img src="https://pouch.jumpshare.com/preview/YVLfs0Ldera2NGRNi3vJAtFEZ5AiNCpPp7zutbNVuMaimSuc3UIoFGDw5yM6hmTYHb8ZSR6Ac-zFtp8uAyaZzl88wM1KRdvh8CrGswrffXo" align="center"  width="1000" height="300" />
 
@@ -39,7 +39,7 @@
  
 </div>
 <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<h2 align='center'> ⚒ Tools ⚒</h2>
+<h2 align='center'> ⚒ Other Tools ⚒</h2>
 <div align='center' style="display: flex;">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -48,10 +48,12 @@
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
-
 <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aansourav&show_icons=true&locale=en&layout=compact" alt="aansourav" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aansourav&show_icons=true&locale=en" alt="aansourav" /></p>
+<br>
+<h2 align='center'>📊 My Github Stats 📊</h2>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aansourav&show_icons=true&locale=en&layout=compact" alt="aansourav" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aansourav&" alt="aansourav" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aansourav&show_icons=true&locale=en" alt="aansourav" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aansourav&" alt="aansourav" /></p>
