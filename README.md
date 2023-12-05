@@ -16,7 +16,7 @@
 <img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align='center'> 🔍Connect with me</h2>
 <p align="center">
-<a style="margin-right:5px;" href="https://x.com/aansourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="svijayaprasad6" height="30" width="40" /></a>
+<a style="margin-right:0 5px 0;" href="https://x.com/aansourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="svijayaprasad6" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aansourav ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aansourav ." height="30" width="40" /></a>
 <a href="https://aansourav.netlify.app/" target="blank"><img align="center" src="https://pouch.jumpshare.com/preview/kVdeYXyjnFJo8nQhU_FsuoAEbJZPuCYwwTZ4fDLt3NRnmEP2TU1P2dGFuqMx883N-JppMGH8xp8dfgWGLhaTqUCmAesxlKz_H1t87BoNowY" alt="@svijaym6" height="30" width="40" /></a>
 </p>
