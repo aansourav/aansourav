@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah An-Noor</h1>
 <h3 align="center">A passionate React Frontend & MERN Stack Developer from Bangladesh</h3>
 
-<img src="https://pouch.jumpshare.com/preview/YVLfs0Ldera2NGRNi3vJAtFEZ5AiNCpPp7zutbNVuMaimSuc3UIoFGDw5yM6hmTYHb8ZSR6Ac-zFtp8uAyaZzl88wM1KRdvh8CrGswrffXo" alt="coding" width="400" />
+<img src="https://pouch.jumpshare.com/preview/YVLfs0Ldera2NGRNi3vJAtFEZ5AiNCpPp7zutbNVuMaimSuc3UIoFGDw5yM6hmTYHb8ZSR6Ac-zFtp8uAyaZzl88wM1KRdvh8CrGswrffXo" align="center"  width="1000" height="300" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aansourav" alt="aansourav" /></a> </p>
 
