@@ -2,7 +2,7 @@
 <h3 align="center">A passionate React Frontend Developer, MERN Stack Developer & NextJS Enthusiast who is focused on writing clean, elegant and efficient code</h3>
 <br><br>
 
-<img src="https://pouch.jumpshare.com/preview/YVLfs0Ldera2NGRNi3vJAtFEZ5AiNCpPp7zutbNVuMaimSuc3UIoFGDw5yM6hmTYHb8ZSR6Ac-zFtp8uAyaZzl88wM1KRdvh8CrGswrffXo" align="center"  width="1000" height="300" />
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="center"  width="1000" height="300" />
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aansourav" alt="aansourav" /></a> </p>
 <br>
