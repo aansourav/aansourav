@@ -4,8 +4,7 @@
 
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="center"  width="1000" height="650" />
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aansourav" alt="aansourav" /></a> </p>
-<br>
+
 
 - 🌱 I am currently learning & working with **Advanced NextJS with Prisma**
 - 🔭 I’m currently working on [OutCourse](https://github.com/aansourav/OutCourse)
@@ -59,3 +58,5 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aansourav&show_icons=true&locale=en" alt="aansourav" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aansourav&" alt="aansourav" /></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&fontSize=20" />
