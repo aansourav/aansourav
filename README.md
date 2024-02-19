@@ -6,7 +6,7 @@
 <br>
 <br>
 
-#### Currently, **I'm open to work and employment opportunities near Dhaka or Remote**. [Get My Resume 》](https://www.docdroid.net/cLc4mUd/abdullah-an-noor-resume-pdf)
+#### Currently, **I'm open to work and employment opportunities near Dhaka or Remote**. [Get My Resume 》](https://aansourav.netlify.app)
 
 - 💬 Loves to Talk about Technology, Software, Coding, And Ideas
 - 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
