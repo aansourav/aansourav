@@ -4,8 +4,12 @@
 
 <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" align="center"  width="1000" height="650" />
 <br>
+<br>
 
+#### Currently, **I'm open to work and employment opportunities near Dhaka or Remote**. [Get My Resume 》](https://www.docdroid.net/cLc4mUd/abdullah-an-noor-resume-pdf)
 
+- 💬 Loves to Talk about Technology, Software, Coding, And Ideas
+- 🤝 Open for Collaboration, Excited to collaborate on innovative projects.
 - 🌱 I am currently learning & working with **Advanced NextJS with Prisma**
 - 🔭 I’m currently working on [OutCourse](https://github.com/aansourav/OutCourse)
 - 👨‍💻 All of my projects are available at [https://aansourav.netlify.app](https://aansourav.netlify.app)
@@ -36,8 +40,6 @@
   <img src="https://img.shields.io/badge/MongoDB-2e542d?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-9400d3?style=for-the-badge&logo=bootstrap&logoColor=violet" />
 
-
- 
 </div>
 <img  width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 <h2 align='center'> ⚒ Other Tools ⚒</h2>
