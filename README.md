@@ -1,4 +1,4 @@
-<img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="transform: rotateX(180deg);">
+<img width="1100px" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" style="transform: rotateX(180deg)">
 <br>
 <h1 align="center">Hi 👋, I'm Abdullah An-Noor</h1>
 <h3 align="center">A passionate React Frontend Developer, MERN Stack Developer & NextJS Enthusiast who is focused on writing clean, elegant and efficient code</h3>
